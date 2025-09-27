@@ -1,0 +1,145 @@
+,co,h,o3,pm10,pm25,city,country,date
+0,2.3,68.9,37.6,24,50,Meguro (??),,2025-08-20 22:00:00
+1,,94,,,74,Kemayoran,Indonesia,2025-08-20 21:00:00
+2,,74,,,88,Manila US Embassy,Philippines,2025-08-20 20:00:00
+3,3.2,77.6,15.2,21,38,Seoul (??),,2025-08-20 23:00:00
+4,7.8,72,5.6,29,57,"Merced, México",Mexico,2025-08-20 08:00:00
+5,,42,,,57,Cairo US Embassy,Egypt,2025-03-04 13:00:00
+6,,20,,,152,Dhaka US Consulate,Bangladesh,2025-03-04 16:00:00
+7,10,88,44.3,45,109,Beijing (??),,2025-08-20 22:00:00
+8,0.1,8.7,4.8,15,53,Bangkok,,2025-08-20 21:00:00
+9,1.9,86.6,7.3,11,30,"Spirid, Moscow, Moscow, Russia (????????????",??????),2025-08-19 03:00:00
+10,4.7,89,,21,,"Cordoba, Buenos Aires",Argentina,2025-08-16 23:00:00
+11,20,9,,68,73,Imam Khomeini,Tehran,2025-07-20 20:00:00
+12,,88,,,93,Kinshasa US Embassy,Congo,2025-02-17 06:00:00
+13,1,60.3,19.5,20,38,London,,2025-08-20 14:00:00
+14,0.1,81.2,16.9,26,78,Paris,,2025-08-20 14:00:00
+15,7.1,81,8.5,20,55,"Campo De Marte, Lima",Peru,2025-08-20 09:00:00
+16,0.1,62,13.5,39,102,Kuala Lumpur,,2025-08-20 21:00:00
+17,,92,,,103,United Nations International School of Hanoi,Vietnam,2025-08-20 20:00:00
+18,5.2,51,5.6,18,61,"San Cristobal, Bogota",Colombia,2025-08-20 09:00:00
+19,,12,,,149,Khartoum US Embassy,Sudan,2023-05-04 22:00:00
+20,8.1,85.1,5.7,16,52,Central,HongKong,2025-08-20 22:00:00
+21,3,29,7,33,,Riyadh - Officers,Saudi Arabia,2022-02-27 11:18:00
+22,7.3,76,1.6,68,72,Parque O'Higgins,Chile,2025-08-20 10:00:00
+23,,59,,,153,Rangoon US Embassy,Maynmar,2025-03-04 18:00:00
+24,0.1,35.5,39.4,50,119,Madrid,,2025-08-20 13:00:00
+25,,93,,,95,Baghdad US Embassy,Iraq,2025-02-17 05:00:00
+26,3,78,2,17,38,South,Singapore,2025-08-20 22:00:00
+27,5.5,27.7,26.8,32,52,S?hh?ye,Turkey,2025-08-20 17:00:00
+28,,67,,,80,Addis Ababa US Embassy,Ethiopia,2025-08-20 15:00:00
+29,,31,,,5,Nairobi US Embassy,Kenya,2025-02-07 19:00:00
+30,0.1,94,4.1,6,10,"Aurora Hills Visitor Center, Northern Virginia",USA,2025-08-20 09:00:00
+31,,79,,,90,Abidjan US Embassy,Ivory Coast,2025-03-04 10:00:00
+32,,80,,23,37,"Foreshore-NAQI, City of Cape Town",South Africa,2025-08-20 16:00:00
+33,0.1,55,33.8,22,42,Berlin,Germany,2025-08-20 16:00:00
+34,,24,,,193,Kabul US Embassy,Afganistan,2021-08-15 18:00:00
+35,,54,,,97,Bamako US Embassy,Mali,2023-10-17 14:00:00
+36,,33,,13,,"Yarmouk Area, Amman",Jordan,2025-08-20 16:00:00
+37,,52,,,160,Abuja US Embassy,Nigeria,2025-03-04 11:00:00
+38,0.2,38,0.1,,,Tashkent Chilanzar,Uzbekistan,2025-08-20 06:00:00
+39,,15,,,153,Ouagadougou US Embassy,Burkina Faso,2025-03-04 11:00:00
+40,,54.5,,30,46,Aristotelous,Greece,2025-08-20 16:00:00
+41,,87,4.9,,61,"US Embassy, Guatemala City",Guatemala,2025-03-04 05:00:00
+42,0.6,64.9,15.8,36,68,Al-Mansouriya,Kuwait,2023-03-20 11:00:00
+43,,88.23,,2,5,"Mykhaila Hrushevskoho Street, 30, Kyiv",Ukraine,2022-10-19 01:00:00
+44,6.7,52,28.7,42,58,"Tshwane Market, City of Tshwane",South Africa,2024-11-04 00:00:00
+45,,52,32.1,19,53,"Arenula, Roma, Lazio",Italy,2025-08-19 23:00:00
+46,5.8,88,0.6,16,74,Zhongshan,Taiwan,2025-08-20 22:00:00
+47,,34.9,,20,,"Calea Victoriei, Cercul Militar",Romania,2025-08-20 17:00:00
+48,,46,,,102,Algiers US Embassy,Algeria,2025-03-04 11:00:00
+49,,70,,,61,Baku US Embassy,Azerbaijan,2025-03-04 15:00:00
+50,0.1,28.1,,11,13,Ecke Taborstraße - Glockengasse,Austria,2025-08-20 15:00:00
+51,,35,,,,Phnom Penh CDB-01,Cambodia,
+52,0.1,41,12,26,36,"Marsza?kowska, Warszawa, Mazowieckie",Poland,2025-08-20 16:00:00
+53,,81.5,,,50,San Juan,Puerto Rico,2025-08-20 10:00:00
+54,8.9,51,28.5,,73,"Centro, Quito",Ecuador,2025-08-20 08:00:00
+55,5.6,34,,17,,"Budapest Széna tér, Budapest",Hungary,2025-08-20 14:00:00
+56,,58,,,177,Kampala US Embassy,Uganda,2025-03-04 14:00:00
+57,,46.9,,,72,Conakry US Embassy,Guinea,2025-01-28 15:00:00
+58,,19,,,93,Dushanbe US Embassy,Tajikistan,2025-08-20 17:00:00
+59,4.5,76,2.4,,21,"San Jose - Jackson St, Santa Clara",California,2025-08-20 06:00:00
+60,,44,,,,San Salvador Centro,El Salavor,2025-08-19 12:00:00
+61,,66,,,80,Lome US Embassy,Togo,2025-03-04 11:00:00
+62,,54.5,59.1,122,173,Abu Dhabi City/Kalifah High School,UAE,2025-08-20 17:00:00
+63,4.1,67.6,35.2,56,33,Amsterdam,,2025-08-20 15:00:00
+64,,52.7,37,19,,"Nadezhda, Sofia, Bulgaria (?a?e??a",????????),2025-08-20 12:00:00
+65,1,87,84,9,21,Misheel Expo,Ulaanbaatar,2025-08-20 22:00:00
+66,,34.3,55.8,24,75,"Pha8-Karlin, Prague",Czech Republic,2025-08-20 15:00:00
+67,1.6,43,22.3,16,3,"H.C.Andersens Boulevard, Copenhagen",Denmark,2025-08-20 12:00:00
+68,,47.5,26.2,11,9,Helsinki,,2025-08-20 17:00:00
+69,,69,,,34,Antananarivo US Embassy,Madagascar,2025-03-04 14:00:00
+70,,49,32.1,20,31,Brussels,,2025-08-20 16:00:00
+71,4,29,36.8,26,34,Beograd Franša Deperea,Serbia,2025-08-20 15:00:00
+72,,40,,,146,Kigali US Embassy,Rwanda,2025-08-20 14:00:00
+73,,55,,,80,Bishkek US Embassy,Kyrgyzstan,2025-03-04 16:00:00
+74,,35,,36,58,"David Agmashenebeli Avenue 73a, Tbilisi",Georgia,2025-08-20 18:00:00
+75,,28,,,44,Yerevan US Embassy,Armenia,2023-06-15 17:00:00
+76,3.6,60,,,,"Astana, US Embassy, Kazakhstan (???-??????",??? ????????),2025-08-20 20:00:00
+77,5,86.5,15.2,,21,Ottawa,,2025-08-20 10:00:00
+78,,9,,,34,Ashgabat US Embassy,Turkmenistan,2025-08-20 17:00:00
+79,,61,,,72,Islamabad US Embassy,Pakistan,2025-08-20 17:00:00
+80,0.1,36,,8,,Stockholm Sveavägen 59 Gata,Sweden,2025-08-20 16:00:00
+81,,34,,,,Vientiane University of Health Science 3,Laos,
+82,6.5,40,43.5,29,48,Jerusalem (?????,usalem),2025-08-20 16:00:00
+83,,72.5,11.4,,34,"St. Andrews State Park, Bay, Florida",USA,2025-08-20 08:00:00
+84,,6,,,144,N'Djamena US Embassy,Chad,2025-03-04 12:00:00
+85,,79,,,61,Libreville US Embassy,Gabon,2022-02-27 21:00:00
+86,,57.6,,19,30,Zagreb-1,Croatia,2025-08-20 15:00:00
+87,,49,,,82,Colombo US Embassy,Sri Lanka,2025-02-26 12:00:00
+88,,44.4,,,142,Manama US Embassy,Bahrain,2025-08-19 09:00:00
+89,,36.5,,5,8,"Spikersuppa, Oslo",Norway,2025-08-20 16:00:00
+90,,20,,,53,Chisinau US Embassy,Moldova,2024-08-09 16:00:00
+91,,44,25.6,5,3,Liivalaia,Estonia,2025-08-20 16:00:00
+92,,85.6,15.5,12,28,"Pearse Street, Dublin 2",Ireland,2025-08-20 14:00:00
+93,0.1,92.4,12.3,22,30,Vilnius Žirm?nai,Lithuania,2025-08-20 14:00:00
+94,,78.5,21.6,,13,"Kingston, Ontario",Canada,2025-08-20 10:00:00
+95,,47,16.3,13,25,"Entrecampos, Lisboa",Portugal,2025-08-20 13:00:00
+96,,77,32.4,25,27,Rebecquestraat,Den Haag,2025-08-20 16:00:00
+97,,70,,,95,Accra US Embassy,Ghana,2025-03-04 11:00:00
+98,0.1,70.1,,25,51,Msida,Malta,2025-08-20 14:00:00
+99,2.2,41.5,,19,57,"Kamenne nam., Bratislava",Slovakia,2025-08-20 16:00:00
+100,,27.1,26.7,26,55,"Centar, Skopje",Macedonia,2025-08-20 15:00:00
+101,,87,9,,,Civic,Canberra,2025-08-21 00:00:00
+102,2.3,37.5,45.9,34,53,Nicosia Traffic,Cyprus,2025-08-20 17:00:00
+103,,83,19.3,5,12,"Lislet Geoffroy, Reunion",France,2025-08-20 16:00:00
+104,,76,,9,25,LJ Vi?,Slovenia,2025-08-20 16:00:00
+105,,23,,,,Pelonomi,South Africa,
+106,,64,17,64,35,"Renéville, Martinique",France,2025-08-20 09:00:00
+107,5.5,66.525,7.7,47,74,"Major Dhyan Chand National Stadium, Delhi, Delhi",India,2025-08-20 20:00:00
+108,0.6,28,42.3,10,30,Sarajevo Otoka,Bosnia Herzegovina,2025-08-20 16:00:00
+109,0.1,78,13.2,21,56,Perai,,2025-08-20 21:00:00
+110,5.5,66.525,7.7,47,74,"Major Dhyan Chand National Stadium, Delhi, Delhi",India,2025-08-20 20:00:00
+111,,72.2366,,,,Willis St,New Zealand,
+112,0.9,33.7,17.4,11,19,Prishtine - IHMK,Kosovo,2025-08-20 16:00:00
+113,,88,18.2,7,16,Faubourg B,New Caledonia,2025-08-21 01:00:00
+114,,29,,14,52,Podgorica UB,Montenegro,2025-08-20 16:00:00
+115,,86.1,,,25,Curaçao US Consulate,Curacao,2024-12-12 00:00:00
+116,,72.6,,32,51,Signal Hill,Trinidad and Tobago,2024-06-30 12:00:00
+117,4.6,54,19.9,,80,"S.Bernardo-Centro, São Paulo",Brazil,2025-08-20 10:00:00
+118,0.1,59,8.5,3,4,Grensásv.,Iceland,2025-08-20 14:00:00
+119,,75,33.8,20,50,Bern Bollwerk,Switzerland,2025-08-20 15:00:00
+120,,82.5,18.7,19,53,Luxembourg-bonnevoie,Luxembourg,2025-08-20 14:00:00
+121,,49,,,82,Colombo US Embassy,Sri Lanka,2025-02-26 12:00:00
+122,1.1,86,5.6,,20,"Portland Postal Bldg., Oregon",USA,2025-08-20 06:00:00
+123,3.4,65.1,32.8,15,55,"Kamigawa, Suwa, Nagano",Japan,2025-08-20 22:00:00
+124,,57.3,,,,Port of Spain,Trinidad and Tobago,2025-08-20 09:00:00
+125,0.1,85.5,7.2,36,101,"Putrajaya, W.p. Putrajaya",Malaysia,2025-08-20 21:00:00
+126,0.1,78.5,,14,10,"Cayenne Caiena 3, Guyane",France,2025-08-20 10:00:00
+127,,94,,,,Brunei Muara,Brunei,2025-08-20 16:00:00
+128,0.1,50,,9,32,Governors Lane (mobile),Gibraltar,2025-08-20 16:00:00
+129,,79.5,,13,32,Howard Davis Park,Jersey,2025-08-20 15:00:00
+130,,86.5,,10,,"Douglas Red Cross, Arizona",USA,2025-08-20 07:00:00
+131,0.1,78,13.2,21,56,Perai,,2025-08-20 21:00:00
+132,0.1,87.5,3.3,,38,"Victoria Topaz, British Comlumbia",Canada,2025-08-20 06:00:00
+133,,87.6,14.7,17,57,Escaldes Engordany,Andorra,2025-08-20 16:00:00
+134,3.2,82.1,,22,,"Centenario, Buenos Aires",Argentina,2025-08-16 23:00:00
+135,,85.6,,9,17,Dun Laoghaire,Ireland,2025-08-20 14:00:00
+136,0.1,68,18.3,18,15,"Station Blvd Banks, Reunion",France,2025-08-20 17:00:00
+137,,93,,,13,Belmopan US Embassy,Belize,2025-03-03 20:00:00
+138,2.4,94.6,7.3,,13,Hamilton,,2025-08-20 10:00:00
+139,0.1,52,22.4,17,42,"Cipro, Roma, Lazio",Italy,2025-08-19 23:00:00
+140,,78.5,21.6,,13,"Kingston, Ontario",Canada,2025-08-20 10:00:00
+141,,70,5.7,37,56,"Bt_artchipel, Guadeloupe",France,2025-08-20 08:00:00
+142,,93,20.8,,13,"Brigantine, NewJersey",USA,2025-08-20 09:00:00
+143,,64.2,21.5,24,30,Plymouth Centre,United Kingdom,2025-08-20 13:00:00

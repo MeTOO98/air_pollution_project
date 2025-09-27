@@ -1,0 +1,114 @@
+,country,city,Tree_Cover_Precent,Filter_Percent
+0,,Seoul,27.9,92
+1,Indonesia,Jakarta (Kemayoran),21.0,45
+2,Philippines,Manila,20.0,40
+4,Mexico,Mexico City,9.5,65
+5,Egypt,Cairo,8.0,35
+6,Bangladesh,Dhaka,12.0,25
+9,Russia,Moscow,28.0,70
+10,Argentina,Buenos Aires,16.0,60
+11,Iran,Tehran,18.5,40
+12,Congo,Kinshasa,45.0,15
+15,Peru,Lima,10.0,55
+17,Vietnam,Hanoi,40.0,50
+18,Colombia,Bogota,17.0,58
+19,Sudan,Khartoum,5.0,10
+20,Hong Kong,Hong Kong,25.0,85
+21,Saudi Arabia,Riyadh,5.0,65
+22,Chile,Santiago,14.0,72
+23,Myanmar,Yangon (Rangoon),30.0,20
+25,Iraq,Baghdad,4.0,25
+26,Singapore,Singapore,30.0,99
+27,Turkey,Ankara (S?hh?ye),15.0,60
+28,Ethiopia,Addis Ababa,15.0,30
+29,Kenya,Nairobi,20.0,35
+30,USA,Arlington (Northern Virginia),38.0,96
+31,Ivory Coast,Abidjan,35.0,30
+32,South Africa,Cape Town,23.0,65
+33,Germany,Berlin,40.0,98
+34,Afghanistan,Kabul,5.0,15
+35,Mali,Bamako,10.0,20
+36,Jordan,Amman,12.0,50
+37,Nigeria,Abuja,25.0,35
+38,Uzbekistan,Tashkent,15.0,45
+39,Burkina Faso,Ouagadougou,10.0,20
+40,Greece,Athens,12.0,80
+41,Guatemala,Guatemala City,25.0,40
+42,Kuwait,Kuwait City,3.0,70
+43,Ukraine,Kyiv,42.0,55
+45,Italy,Rome,26.0,88
+46,Taiwan,Taipei,25.0,90
+47,Romania,Bucharest,26.0,65
+48,Algeria,Algiers,12.0,40
+49,Azerbaijan,Baku,11.0,45
+50,Austria,Vienna,45.0,97
+51,Cambodia,Phnom Penh,20.0,30
+52,Poland,Warsaw,22.0,75
+53,Puerto Rico,San Juan,40.0,80
+54,Ecuador,Quito,20.0,50
+55,Hungary,Budapest,22.0,78
+56,Uganda,Kampala,30.0,25
+57,Guinea,Conakry,35.0,22
+58,Tajikistan,Dushanbe,15.0,35
+60,El Salvador,San Salvador,25.0,42
+61,Togo,Lome,20.0,25
+62,UAE,Abu Dhabi,5.0,80
+64,Bulgaria,Sofia,35.0,60
+65,Mongolia,Ulaanbaatar,15.0,40
+66,Czech Republic,Prague,30.0,85
+67,Denmark,Copenhagen,22.0,98
+68,Finland,Helsinki,74.0,97
+69,Madagascar,Antananarivo,25.0,20
+71,Serbia,Belgrade,25.0,60
+72,Rwanda,Kigali,25.0,35
+73,Kyrgyzstan,Bishkek,15.0,38
+74,Georgia,Tbilisi,25.0,55
+75,Armenia,Yerevan,12.0,50
+76,Kazakhstan,Nur-Sultan (Astana),15.0,60
+77,Canada,Ottawa,31.0,94
+78,Turkmenistan,Ashgabat,8.0,30
+79,Pakistan,Islamabad,40.0,40
+80,Sweden,Stockholm,42.0,98
+81,Laos,Vientiane,35.0,28
+82,Israel,Jerusalem,24.0,85
+84,Chad,N'Djamena,5.0,10
+85,Gabon,Libreville,65.0,45
+86,Croatia,Zagreb,35.0,75
+87,Sri Lanka,Colombo,30.0,45
+88,Bahrain,Manama,3.0,75
+89,Norway,Oslo,48.0,98
+90,Moldova,Chisinau,25.0,50
+91,Estonia,Tallinn (Liivalaia),45.0,88
+92,Ireland,Dublin,16.0,90
+93,Lithuania,Vilnius,45.0,82
+95,Portugal,Lisbon,24.0,83
+96,Netherlands,The Hague (Den Haag),20.0,96
+97,Ghana,Accra,22.0,38
+98,Malta,Msida,10.0,85
+99,Slovakia,Bratislava,35.0,78
+100,North Macedonia,Skopje,20.0,52
+101,Australia,Canberra,22.0,92
+102,Cyprus,Nicosia,15.0,79
+103,France,Saint-Denis (Reunion),50.0,87
+104,Slovenia,Ljubljana,70.0,89
+107,India,New Delhi,20.0,50
+108,Bosnia Herzegovina,Sarajevo,35.0,58
+109,Malaysia,Perai,30.0,65
+110,New Zealand,Wellington,32.0,93
+111,Kosovo,Pristina,20.0,45
+112,New Caledonia,Noumea,60.0,80
+113,Montenegro,Podgorica,30.0,60
+114,Curacao,Willemstad,25.0,75
+115,Trinidad and Tobago,Port of Spain,45.0,70
+116,Brazil,Sao Paulo,16.0,62
+117,Iceland,Reykjavik,1.5,99
+118,Switzerland,Bern,43.0,99
+119,Luxembourg,Luxembourg City,35.0,97
+121,Japan,Suwa,60.0,97
+124,Brunei,Bandar Seri Begawan,70.0,78
+125,Gibraltar,Gibraltar,10.0,90
+126,Jersey,St. Helier,20.0,92
+129,Andorra,Andorra la Vella,35.0,91
+132,Belize,Belmopan,60.0,55
+133,Bermuda,Hamilton,35.0,88
+137,United Kingdom,Plymouth,20.0,91
