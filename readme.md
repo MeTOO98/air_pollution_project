@@ -55,7 +55,7 @@ The insights from this analysis are presented in a live dashboard, accessible he
 
 1.  Clone this repository.
     ```bash
-    git clone [your-repo-link]
+    git clone https://github.com/MeTOO98/air_pollution_project.git
     ```
 2.  Run the cells in `FinalProject.ipynb` to execute the data engineering pipeline and generate the cleaned data.
 3.  Open `finalproject.pbix` with Power BI Desktop or visit the live dashboard link to explore the visualizations.
